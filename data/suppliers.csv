@@ -1,0 +1,16 @@
+supplier_id,supplier_name,category,country,relationship_start
+SUP001,Meridian Components,components,USA,2019-03-15
+SUP002,Kanto Precision,components,Japan,2021-06-01
+SUP003,Delta Packaging Co,packaging,USA,2018-01-10
+SUP004,Nordvik Industrial,components,Germany,2022-09-20
+SUP005,Basin Supply Group,packaging,USA,2020-11-05
+SUP006,Tsurumi Materials,components,Japan,2017-04-22
+SUP007,Clearline Logistics,services,USA,2023-02-14
+SUP008,Pacific Rim Plastics,packaging,Taiwan,2021-08-30
+SUP009,Halvorsen Tooling,components,Norway,2020-05-18
+SUP010,Summit Calibration,services,USA,2019-10-01
+SUP011,Avalon Fasteners,components,USA,2022-03-07
+SUP012,Kyoto Seal Works,components,Japan,2018-07-25
+SUP013,Northgate Cartons,packaging,Canada,2023-06-12
+SUP014,Veritas Testing Labs,services,USA,2021-01-20
+SUP015,Ridgeway Metals,components,USA,2016-09-08

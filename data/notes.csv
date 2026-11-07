@@ -1,0 +1,171 @@
+note_id,supplier_id,note_date,note_text
+N527,SUP009,2025-11-07,"Delivered a day early, no complaints."
+N578,SUP006,2025-11-10,Standard reorder placed.
+N592,SUP003,2025-11-10,"They flagged a holiday closure next month, planned around it."
+N546,SUP005,2025-11-15,Standard reorder placed.
+N640,SUP010,2025-11-15,"Routine check-in, nothing to report."
+N516,SUP002,2025-11-21,"Received, counts matched."
+N610,SUP004,2025-11-23,Spec question answered within the hour.
+N620,SUP007,2025-11-24,"Routine check-in, nothing to report."
+N637,SUP010,2025-11-25,Confirmed delivery for the 27th.
+N506,SUP002,2025-11-26,Confirmed delivery for the 18th.
+N597,SUP003,2025-11-28,Confirmed delivery for the 3th.
+N519,SUP009,2025-12-02,Shipment tracking looks on schedule.
+N532,SUP013,2025-12-02,PO acknowledged same day.
+N561,SUP011,2025-12-02,"Quick call to confirm specs, all good."
+N518,SUP009,2025-12-06,Shipment tracking looks on schedule.
+N535,SUP013,2025-12-07,"Delivered a day early, no complaints."
+N502,SUP002,2025-12-08,"Received, counts matched."
+N572,SUP006,2025-12-08,"Invoice matched PO, sent to AP."
+N513,SUP002,2025-12-12,"They flagged a holiday closure next month, planned around it."
+N641,SUP012,2025-12-12,"Rescheduled, now the 20th. No explanation given."
+N613,SUP007,2025-12-14,Vague on the delay reason. Said 'logistics'.
+N661,SUP014,2025-12-14,Confirmed delivery for the 1th.
+N553,SUP005,2025-12-15,Spec question answered within the hour.
+N655,SUP014,2025-12-18,PO acknowledged same day.
+N575,SUP006,2025-12-19,Standard reorder placed.
+N580,SUP006,2025-12-24,"Raised pricing again, said material costs."
+N533,SUP013,2025-12-27,Confirmed delivery for the 4th.
+N588,SUP001,2025-12-27,Shipment tracking looks on schedule.
+N630,SUP008,2025-12-28,PO acknowledged same day.
+N646,SUP012,2026-01-01,No issues this cycle.
+N537,SUP013,2026-01-02,"Rescheduled, now the 16th. No explanation given."
+N586,SUP001,2026-01-02,"Quick call to confirm specs, all good."
+N529,SUP009,2026-01-04,"They flagged a holiday closure next month, planned around it."
+N657,SUP014,2026-01-05,Confirmed verbally but wouldn't put the date in writing.
+N663,SUP015,2026-01-05,"They flagged a holiday closure next month, planned around it."
+N571,SUP006,2026-01-10,"Invoice matched PO, sent to AP."
+N574,SUP006,2026-01-13,No issues this cycle.
+N606,SUP004,2026-01-13,Confirmed delivery for the 13th.
+N660,SUP014,2026-01-17,"Routine check-in, nothing to report."
+N576,SUP006,2026-01-22,"They flagged a holiday closure next month, planned around it."
+N515,SUP002,2026-01-24,No issues this cycle.
+N555,SUP005,2026-01-27,Confirmed delivery for the 5th.
+N643,SUP012,2026-01-27,"Quick call to confirm specs, all good."
+N564,SUP011,2026-01-28,Asked to move delivery out a week.
+N670,SUP015,2026-02-08,"Routine check-in, nothing to report."
+N589,SUP001,2026-02-12,"Routine check-in, nothing to report."
+N540,SUP013,2026-02-14,"They flagged a holiday closure next month, planned around it."
+N628,SUP008,2026-02-16,"Minor quality hold, they sorted it but it cost us two days."
+N559,SUP011,2026-02-17,"Rescheduled, now the 17th. No explanation given."
+N522,SUP009,2026-02-20,No issues this cycle.
+N505,SUP002,2026-02-23,"Delivered a day early, no complaints."
+N666,SUP015,2026-02-23,Confirmed delivery for the 1th.
+N545,SUP013,2026-02-25,"Rescheduled, now the 24th. No explanation given."
+N526,SUP009,2026-02-27,"Account manager changed again, third one this year."
+N662,SUP015,2026-02-28,Confirmed delivery for the 21th.
+N618,SUP007,2026-03-01,PO acknowledged same day.
+N504,SUP002,2026-03-04,"Asked for a firm date twice, got 'soon' both times."
+N593,SUP003,2026-03-06,"Received, counts matched."
+N512,SUP002,2026-03-08,Spec question answered within the hour.
+N644,SUP012,2026-03-11,"Routine check-in, nothing to report."
+N585,SUP001,2026-03-14,PO acknowledged same day.
+N587,SUP001,2026-03-18,Confirmed delivery for the 17th.
+N601,SUP003,2026-03-18,Shipment tracking looks on schedule.
+N581,SUP001,2026-03-19,"Invoice matched PO, sent to AP."
+N653,SUP014,2026-03-19,Confirmed delivery for the 16th.
+N528,SUP009,2026-03-25,Vague on the delay reason. Said 'logistics'.
+N520,SUP009,2026-03-26,"Routine check-in, nothing to report."
+N507,SUP002,2026-03-29,"They flagged a holiday closure next month, planned around it."
+N590,SUP001,2026-03-29,"Routine check-in, nothing to report."
+N635,SUP010,2026-03-29,"Received, counts matched."
+N607,SUP004,2026-04-03,PO acknowledged same day.
+N538,SUP013,2026-04-09,"Said their line was down briefly last week, caught up since."
+N626,SUP008,2026-04-09,Standard reorder placed.
+N501,SUP002,2026-04-15,"Invoice matched PO, sent to AP."
+N549,SUP005,2026-04-22,"Delivered a day early, no complaints."
+N634,SUP010,2026-04-23,"Received, counts matched."
+N517,SUP009,2026-04-24,"Delivered a day early, no complaints."
+N591,SUP003,2026-04-27,Shipment tracking looks on schedule.
+N543,SUP013,2026-05-02,"They flagged a holiday closure next month, planned around it."
+N603,SUP004,2026-05-02,"Quick call to confirm specs, all good."
+N629,SUP008,2026-05-04,"Routine check-in, nothing to report."
+N548,SUP005,2026-05-06,Pushed the date again. Second time this order.
+N509,SUP002,2026-05-10,Pushed the date again. Second time this order.
+N633,SUP010,2026-05-12,"Quick call to confirm specs, all good."
+N579,SUP006,2026-05-16,"Raised pricing again, said material costs."
+N652,SUP014,2026-05-16,"They flagged a holiday closure next month, planned around it."
+N658,SUP014,2026-05-20,"They flagged a holiday closure next month, planned around it."
+N631,SUP008,2026-05-21,"Dimensional issue on three units, replaced."
+N523,SUP009,2026-05-23,"Asked for a firm date twice, got 'soon' both times."
+N531,SUP009,2026-05-23,"Their ops lead left, new person still getting up to speed."
+N524,SUP009,2026-05-25,No issues this cycle.
+N554,SUP005,2026-05-25,"Received, counts matched."
+N582,SUP001,2026-05-27,"They flagged a holiday closure next month, planned around it."
+N632,SUP008,2026-05-27,No issues this cycle.
+N669,SUP015,2026-05-30,Shipment tracking looks on schedule.
+N577,SUP006,2026-06-04,"Raised pricing again, said material costs."
+N584,SUP001,2026-06-06,Shipment tracking looks on schedule.
+N598,SUP003,2026-06-09,"Received, counts matched."
+N563,SUP011,2026-06-14,"Delivered a day early, no complaints."
+N568,SUP011,2026-06-15,"They flagged a holiday closure next month, planned around it."
+N514,SUP002,2026-06-18,"Asked about lead time for a bigger order, answer was non-committal."
+N659,SUP014,2026-06-18,"Received, counts matched."
+N614,SUP007,2026-06-20,"Routine check-in, nothing to report."
+N648,SUP012,2026-06-20,Standard reorder placed.
+N530,SUP009,2026-06-22,"Routine check-in, nothing to report."
+N627,SUP008,2026-06-23,"Dimensional issue on three units, replaced."
+N667,SUP015,2026-06-24,"Quick call to confirm specs, all good."
+N521,SUP009,2026-06-25,"Minor quality hold, they sorted it but it cost us two days."
+N625,SUP008,2026-06-26,"Received, counts matched."
+N511,SUP002,2026-06-27,Standard reorder placed.
+N617,SUP007,2026-07-01,"Received, counts matched."
+N604,SUP004,2026-07-02,"Routine check-in, nothing to report."
+N668,SUP015,2026-07-02,"They flagged a holiday closure next month, planned around it."
+N552,SUP005,2026-07-03,"Invoice matched PO, sent to AP."
+N539,SUP013,2026-07-04,No issues this cycle.
+N550,SUP005,2026-07-04,"Quick call to confirm specs, all good."
+N623,SUP008,2026-07-07,"Routine check-in, nothing to report."
+N615,SUP007,2026-07-09,Standard reorder placed.
+N619,SUP007,2026-07-11,"Received, counts matched."
+N609,SUP004,2026-07-12,Spec question answered within the hour.
+N562,SUP011,2026-07-15,Asked to move delivery out a week.
+N647,SUP012,2026-07-15,Standard reorder placed.
+N616,SUP007,2026-07-16,"Received, counts matched."
+N605,SUP004,2026-07-17,"Received, counts matched."
+N503,SUP002,2026-07-18,"Quoted a longer lead time than usual, didn't say why."
+N567,SUP011,2026-07-18,Confirmed delivery for the 25th.
+N599,SUP003,2026-07-18,Shipment tracking looks on schedule.
+N639,SUP010,2026-07-20,"Quick call to confirm specs, all good."
+N665,SUP015,2026-07-27,PO acknowledged same day.
+N558,SUP011,2026-07-28,No issues this cycle.
+N557,SUP005,2026-08-08,Confirmed delivery for the 1th.
+N602,SUP004,2026-08-08,Confirmed delivery for the 10th.
+N649,SUP012,2026-08-08,"Received, counts matched."
+N525,SUP009,2026-08-09,Vague on the delay reason. Said 'logistics'.
+N650,SUP012,2026-08-12,PO acknowledged same day.
+N508,SUP002,2026-08-14,No issues this cycle.
+N566,SUP011,2026-08-14,"Rescheduled, now the 2th. No explanation given."
+N570,SUP006,2026-08-14,PO acknowledged same day.
+N534,SUP013,2026-08-18,"Said their line was down briefly last week, caught up since."
+N651,SUP014,2026-08-19,Confirmed delivery for the 24th.
+N654,SUP014,2026-08-22,No issues this cycle.
+N560,SUP011,2026-08-28,"They flagged a holiday closure next month, planned around it."
+N636,SUP010,2026-08-29,"Invoice matched PO, sent to AP."
+N621,SUP007,2026-09-04,Shipment tracking looks on schedule.
+N510,SUP002,2026-09-13,Asked to move delivery out a week.
+N622,SUP007,2026-09-15,Confirmed delivery for the 16th.
+N536,SUP013,2026-09-21,Asked to move delivery out a week.
+N544,SUP013,2026-09-22,Mentioned they're running a second shift to keep up.
+N638,SUP010,2026-09-22,PO acknowledged same day.
+N642,SUP012,2026-09-26,Standard reorder placed.
+N656,SUP014,2026-09-27,Shipment tracking looks on schedule.
+N556,SUP005,2026-10-02,Asked to move delivery out a week.
+N645,SUP012,2026-10-02,Standard reorder placed.
+N594,SUP003,2026-10-03,"Invoice matched PO, sent to AP."
+N608,SUP004,2026-10-03,"Delivered a day early, no complaints."
+N551,SUP005,2026-10-05,Asked to move delivery out a week.
+N573,SUP006,2026-10-09,Pushing back on the current rate card.
+N624,SUP008,2026-10-12,Spec question answered within the hour.
+N565,SUP011,2026-10-16,"They flagged a holiday closure next month, planned around it."
+N612,SUP007,2026-10-18,Spec question answered within the hour.
+N595,SUP003,2026-10-19,PO acknowledged same day.
+N541,SUP013,2026-10-20,"Said their line was down briefly last week, caught up since."
+N547,SUP005,2026-10-21,"Quick call to confirm specs, all good."
+N569,SUP006,2026-10-21,Pushing back on the current rate card.
+N600,SUP003,2026-10-21,Standard reorder placed.
+N542,SUP013,2026-10-23,"They flagged a holiday closure next month, planned around it."
+N664,SUP015,2026-10-24,"Received, counts matched."
+N583,SUP001,2026-10-25,Shipment tracking looks on schedule.
+N611,SUP007,2026-10-25,No issues this cycle.
+N596,SUP003,2026-10-28,No issues this cycle.
