@@ -1,6 +1,6 @@
 # Supplier Risk Signals
 
-Delivery metrics tell you a supplier has already slipped. The notes buyers write — "they mentioned their line was down," "third account manager this year," "asked for a firm date twice, got 'soon' both times" — tell you they're about to.
+Delivery metrics tell you a supplier has already slipped. The notes buyers write "they mentioned their line was down," "third account manager this year," "asked for a firm date twice, got 'soon' both times" tell you they're about to.
 
 This project combines both: SQL to measure delivery drift, and an LLM to read the notes nobody has time to read.
 
